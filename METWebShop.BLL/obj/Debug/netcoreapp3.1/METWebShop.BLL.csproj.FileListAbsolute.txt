@@ -1,0 +1,9 @@
+D:\Zsolt\MET\METWebShop.BLL\bin\Debug\netcoreapp3.1\METWebShop.BLL.deps.json
+D:\Zsolt\MET\METWebShop.BLL\bin\Debug\netcoreapp3.1\METWebShop.BLL.dll
+D:\Zsolt\MET\METWebShop.BLL\bin\Debug\netcoreapp3.1\METWebShop.BLL.pdb
+D:\Zsolt\MET\METWebShop.BLL\obj\Debug\netcoreapp3.1\METWebShop.BLL.csprojAssemblyReference.cache
+D:\Zsolt\MET\METWebShop.BLL\obj\Debug\netcoreapp3.1\METWebShop.BLL.AssemblyInfoInputs.cache
+D:\Zsolt\MET\METWebShop.BLL\obj\Debug\netcoreapp3.1\METWebShop.BLL.AssemblyInfo.cs
+D:\Zsolt\MET\METWebShop.BLL\obj\Debug\netcoreapp3.1\METWebShop.BLL.csproj.CoreCompileInputs.cache
+D:\Zsolt\MET\METWebShop.BLL\obj\Debug\netcoreapp3.1\METWebShop.BLL.dll
+D:\Zsolt\MET\METWebShop.BLL\obj\Debug\netcoreapp3.1\METWebShop.BLL.pdb

@@ -1,0 +1,15 @@
+D:\Zsolt\WebShop.DAL\bin\Debug\netcoreapp3.1\WebShop.DAL.deps.json
+D:\Zsolt\WebShop.DAL\bin\Debug\netcoreapp3.1\WebShop.DAL.dll
+D:\Zsolt\WebShop.DAL\obj\Debug\netcoreapp3.1\WebShop.DAL.csprojAssemblyReference.cache
+D:\Zsolt\WebShop.DAL\obj\Debug\netcoreapp3.1\WebShop.DAL.AssemblyInfoInputs.cache
+D:\Zsolt\WebShop.DAL\obj\Debug\netcoreapp3.1\WebShop.DAL.AssemblyInfo.cs
+D:\Zsolt\WebShop.DAL\bin\Debug\netcoreapp3.1\WebShop.DAL.runtimeconfig.json
+D:\Zsolt\WebShop.DAL\bin\Debug\netcoreapp3.1\WebShop.DAL.runtimeconfig.dev.json
+D:\Zsolt\WebShop.DAL\obj\Debug\netcoreapp3.1\WebShop.DAL.genruntimeconfig.cache
+D:\Zsolt\WebShop.DAL\bin\Debug\netcoreapp3.1\WebShop.DAL.pdb
+D:\Zsolt\WebShop.DAL\bin\Debug\netcoreapp3.1\METWebShop.Core.dll
+D:\Zsolt\WebShop.DAL\bin\Debug\netcoreapp3.1\METWebShop.Core.pdb
+D:\Zsolt\WebShop.DAL\obj\Debug\netcoreapp3.1\WebShop.DAL.csproj.CoreCompileInputs.cache
+D:\Zsolt\WebShop.DAL\obj\Debug\netcoreapp3.1\WebShop.DAL.csproj.CopyComplete
+D:\Zsolt\WebShop.DAL\obj\Debug\netcoreapp3.1\WebShop.DAL.dll
+D:\Zsolt\WebShop.DAL\obj\Debug\netcoreapp3.1\WebShop.DAL.pdb
