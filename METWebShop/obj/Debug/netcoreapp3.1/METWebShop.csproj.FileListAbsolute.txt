@@ -161,3 +161,6 @@ D:\Zsolt\MET\METWebShop\obj\Debug\netcoreapp3.1\METWebShop.dll
 D:\Zsolt\MET\METWebShop\obj\Debug\netcoreapp3.1\METWebShop.pdb
 D:\Zsolt\MET\METWebShop\obj\Debug\netcoreapp3.1\METWebShop.genruntimeconfig.cache
 D:\Zsolt\MET\METWebShop\bin\Debug\netcoreapp3.1\wwwroot\images\visualElements\Fejlec.png
+D:\Zsolt\MET\METWebShop\bin\Debug\netcoreapp3.1\METWebShop.BLL.dll
+D:\Zsolt\MET\METWebShop\bin\Debug\netcoreapp3.1\METWebShop.BLL.pdb
+D:\Zsolt\MET\METWebShop\obj\Debug\netcoreapp3.1\Razor\Pages\Products.cshtml.g.cs

@@ -14,6 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\METWebShop.BLL\METWebShop.BLL.csproj" />
     <ProjectReference Include="..\WebShop.DAL\METWebShop.DAL.csproj" />
   </ItemGroup>
 

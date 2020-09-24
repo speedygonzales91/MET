@@ -2,7 +2,11 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using METWebShop.BLL;
+using METWebShop.BLL.Interfaces;
 using METWebShop.DAL;
+using METWebShop.DAL.Interfaces.Repository;
+using METWebShop.DAL.Repository;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -29,6 +33,13 @@ namespace METWebShop
             services.AddAuthentication(IISDefaults.AuthenticationScheme);
             services.AddDbContext<DataContext>(x => x.UseSqlite(Configuration.GetConnectionString("DefaultConnection")));
             services.AddRazorPages();
+
+
+
+            services.AddScoped<IUserManager, UserManager>();
+            services.AddScoped<IProductManager, ProductManager>();
+            services.AddScoped<IUserRepository, UserRepository>();
+            services.AddScoped<IProductRepository, ProductRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
