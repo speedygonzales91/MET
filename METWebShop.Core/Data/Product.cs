@@ -13,13 +13,9 @@ namespace METWebShop.Core.Data
         public string Name { get; set; }
 
         public ProductCategoryType ProductType { get; set; }
-        public string Description { get; set; }
-        public int Stock { get; set; }
         public int Price { get; set; }
         public string ImagePath { get; set; }
 
-
-        public ICollection<ShoppingCart> ShoppingCart { get; set; }
-        public ICollection<Transaction> Transaction { get; set; }
+        public virtual ICollection<OrderProduct> OrderProducts { get; set; }
     }
 }

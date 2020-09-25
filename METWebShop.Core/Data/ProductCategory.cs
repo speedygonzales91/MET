@@ -6,8 +6,8 @@ namespace METWebShop.Core.Data
 {
     public enum ProductCategoryType
     {
-        WarmUpPack,
-        SportPack,
-        SpartaPack
+        WarmUpPack = 1,
+        SportPack = 2,
+        SpartaPack = 3
     }
 }
