@@ -77,4 +77,9 @@ body {
   line-height: 60px; /* Vertically center the text there */
 }
 
-
+.modal-backdrop,
+.modal-backdrop.fade.in {
+    opacity: 0 !important;
+    filter: alpha(opacity=0) !important;
+    background: transparent;
+}

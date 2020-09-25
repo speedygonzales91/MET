@@ -164,3 +164,5 @@ D:\Zsolt\MET\METWebShop\bin\Debug\netcoreapp3.1\wwwroot\images\visualElements\Fe
 D:\Zsolt\MET\METWebShop\bin\Debug\netcoreapp3.1\METWebShop.BLL.dll
 D:\Zsolt\MET\METWebShop\bin\Debug\netcoreapp3.1\METWebShop.BLL.pdb
 D:\Zsolt\MET\METWebShop\obj\Debug\netcoreapp3.1\Razor\Pages\Products.cshtml.g.cs
+D:\Zsolt\MET\METWebShop\obj\Debug\netcoreapp3.1\Razor\Pages\ShoppingCart.cshtml.g.cs
+D:\Zsolt\MET\METWebShop\obj\Debug\netcoreapp3.1\Razor\Pages\Order.cshtml.g.cs
